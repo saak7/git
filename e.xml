@@ -1,0 +1,14 @@
+<students>
+  <student>
+    <name>John Doe</name>
+    <age>15</age>
+    <subject>Math</subject>
+    <gender>Male</gender>
+  </student>
+  <student>
+    <name>Jane Doe</name>
+    <age>16</age>
+    <subject>Science</subject>
+    <gender>Female</gender>
+  </student>
+</students>
